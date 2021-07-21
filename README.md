@@ -1,2 +1,3 @@
 # OpenGLPrimer
-OpenGL Primer
+
+* create window
