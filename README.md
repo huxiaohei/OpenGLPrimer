@@ -1,2 +1,2 @@
-# OpengGLPrimer
+# OpenGLPrimer
 OpenGL Primer
