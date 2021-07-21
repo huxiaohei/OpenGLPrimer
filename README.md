@@ -3,3 +3,4 @@
 * create window
 * triangle
 * shader
+* textures
