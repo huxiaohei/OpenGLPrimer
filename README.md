@@ -1,3 +1,4 @@
 # OpenGLPrimer
 
 * create window
+* triangle
