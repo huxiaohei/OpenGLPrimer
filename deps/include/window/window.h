@@ -18,6 +18,7 @@ public:
 	void swapBuffers();
 	static float getTime();
 	static void pollEvents();
+	GLFWwindow* getWindow() { return window; };
 private:
 	GLFWwindow* window = NULL;
 
